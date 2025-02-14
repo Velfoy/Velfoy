@@ -1,0 +1,12 @@
+names:
+- car
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: psio1
+  url: https://universe.roboflow.com/cardetectioniklb5/psio1/dataset/3
+  version: 3
+  workspace: cardetectioniklb5
+test: ../test/images
+train: ../train/images
+val: ../valid/images
